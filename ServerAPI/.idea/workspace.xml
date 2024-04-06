@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a850600-a5a5-49ff-b1c7-98b1dbc697bf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Rezi &lt;rezigagnidze2@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2dbSEj17t2rAxDQx89llbMW0tuK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rper/Desktop/Chat&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;redshift&quot;
+    ]
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Dashboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Entry.Dashboard" />
+      <module name="ServerAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Entry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dashboard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a850600-a5a5-49ff-b1c7-98b1dbc697bf" name="Changes" comment="" />
+      <created>1710275175649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710275175649</updated>
+      <workItem from="1710275177056" duration="17559000" />
+      <workItem from="1710361844255" duration="8444000" />
+      <workItem from="1710437092350" duration="15318000" />
+      <workItem from="1710678126333" duration="2223000" />
+      <workItem from="1711147708803" duration="1461000" />
+      <workItem from="1711329291303" duration="12862000" />
+      <workItem from="1711902036122" duration="10836000" />
+      <workItem from="1711920112012" duration="5306000" />
+      <workItem from="1712245066432" duration="6821000" />
+      <workItem from="1712261592645" duration="6803000" />
+    </task>
+    <task id="LOCAL-00001" summary="Pilot.">
+      <created>1710379637691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710379637691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pilot.">
+      <created>1710459901693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710459901693</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pilot.">
+      <created>1710679370349</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710679370349</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sending User object to client.">
+      <created>1711340654827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711340654827</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sending User object to client.">
+      <created>1711341451867</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711341451867</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding RequestTypes and requests. transferring images from Database.">
+      <created>1711923612770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711923612770</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adding RequestTypes and requests. transferring images from Database.">
+      <created>1711923702936</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711923702936</updated>
+    </task>
+    <task id="LOCAL-00008" summary="minor bug fixes. fixing removing disconnected clietns.">
+      <created>1711928976451</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711928976451</updated>
+    </task>
+    <task id="LOCAL-00009" summary="setting up multi-connections. sending messages to all, etc.">
+      <created>1711934439873</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711934439873</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Almost to the end. adding multi-threading. can take multiple clients.">
+      <created>1712268507628</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712268507628</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pilot." />
+    <MESSAGE value="sending User object to client." />
+    <MESSAGE value="adding RequestTypes and requests. transferring images from Database." />
+    <MESSAGE value="minor bug fixes. fixing removing disconnected clietns." />
+    <MESSAGE value="setting up multi-connections. sending messages to all, etc." />
+    <MESSAGE value="Almost to the end. added multi-threading. can take multiple clients." />
+    <MESSAGE value="Almost to the end. adding multi-threading. can take multiple clients." />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost to the end. adding multi-threading. can take multiple clients." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ServerAPI$Dashboard.ic" NAME="Dashboard Coverage Results" MODIFIED="1710449467137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Entry.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ServerAPI_iml$Dashboard.ic" NAME="Dashboard Coverage Results" MODIFIED="1711343941746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Entry.*</FILTER>
+    </SUITE>
+  </component>
+</project>

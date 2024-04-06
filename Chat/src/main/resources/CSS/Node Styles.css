@@ -1,0 +1,5 @@
+.profile-pictures{
+    -fx-effect: dropshadow(gaussian, grey, 10, 0, 0, 0);
+    -fx-stroke: rgba(49, 16, 59, 0.49);
+    -fx-stroke-width: 2px;
+}

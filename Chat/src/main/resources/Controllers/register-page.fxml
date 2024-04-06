@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="600.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.RegisterPageController">
+   <children>
+      <Label alignment="CENTER" layoutX="93.0" layoutY="14.0" prefHeight="54.0" prefWidth="214.0" text="Register" textAlignment="CENTER">
+         <font>
+            <Font name="Cascadia Mono Regular" size="38.0" />
+         </font>
+      </Label>
+      <Label layoutX="77.0" layoutY="85.0" text="Name" />
+      <TextField fx:id="nameField" layoutX="77.0" layoutY="106.0" onAction="#fieldAction" prefHeight="31.0" prefWidth="247.0" />
+      <Label layoutX="77.0" layoutY="150.0" prefHeight="21.0" prefWidth="116.0" text="Last Name" />
+      <TextField fx:id="lastNameField" layoutX="77.0" layoutY="178.0" onAction="#fieldAction" prefHeight="31.0" prefWidth="247.0" />
+      <Label layoutX="77.0" layoutY="224.0" text="Username" />
+      <TextField fx:id="usernameField" layoutX="77.0" layoutY="251.0" onAction="#fieldAction" prefHeight="31.0" prefWidth="247.0" />
+      <Label layoutX="79.0" layoutY="300.0" text="Password" />
+      <PasswordField fx:id="passwordField" layoutX="78.0" layoutY="321.0" onAction="#fieldAction" prefHeight="31.0" prefWidth="247.0" />
+      <Label layoutX="77.0" layoutY="372.0" text="Repeat Password" />
+      <PasswordField fx:id="passwordField2" layoutX="79.0" layoutY="393.0" onAction="#fieldAction" prefHeight="31.0" prefWidth="247.0" />
+      <Label layoutX="77.0" layoutY="437.0" text="Phone Number" />
+      <TextField fx:id="phoneNumField" layoutX="77.0" layoutY="458.0" onAction="#fieldAction" prefHeight="31.0" prefWidth="247.0" />
+      <Button layoutX="133.0" layoutY="532.0" mnemonicParsing="false" onAction="#registerButtonPressed" prefHeight="31.0" prefWidth="135.0" text="Register" />
+      <Button fx:id="backButton" layoutX="14.0" layoutY="10.0" mnemonicParsing="false" onAction="#backButtonPressed" prefHeight="31.0" prefWidth="63.0" text="Back" />
+      <Label fx:id="errorLabel" alignment="CENTER" layoutX="52.0" layoutY="500.0" prefHeight="21.0" prefWidth="298.0" textFill="RED" />
+   </children>
+</AnchorPane>
